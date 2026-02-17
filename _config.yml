@@ -3,8 +3,9 @@ description: a journey about watercolor
 baseurl: ""
 url: "https://rainycanvas.github.io"
 
-theme: minima
+remote_theme: vszhub/not-pure-poole
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
