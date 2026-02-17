@@ -5,6 +5,7 @@ cover_image: /assets/bg2.png
 avatar: /assets/brush_face.png
 cover_color: rgb(202, 151, 137)
 future: true
+paginate: 10
 
 remote_theme: vszhub/not-pure-poole
 
