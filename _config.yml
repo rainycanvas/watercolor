@@ -2,6 +2,7 @@ title: RainyCanvas
 description: a journey about watercolor
 baseurl: ""
 url: "https://rainycanvas.github.io"
+cover_image: assets/bg.png
 
 remote_theme: vszhub/not-pure-poole
 
