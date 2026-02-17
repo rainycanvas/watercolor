@@ -1,0 +1,13 @@
+---
+layout: post
+title: a testing page
+author: RainyCanvas
+tags:
+- test
+- watercolor
+date: 2026-02-16 13:56 +0800
+---
+
+test a bit on this blog
+
+how does it work?
