@@ -13,6 +13,22 @@ One of the first things to notice is the huge range in prices. Generally, waterc
 
 Before we dive into anything deeper, the general rule is to get the best paint you can afford. But there’s a little caveat here. Even though you don’t need a huge amount of paint for a watercolor piece, and dried paint on your palette can always be re-activated with a drop of water, there will be some "waste" involved. It is common to wash paint off the brushes, clean up dried bits, or use up quite a bit of pigment just practicing how to mix colors. If using expensive paint makes you feel like you have to be "precious" or "careful" with every drop, it might actually hold you back. In that case, going for something more affordable is probably a better move.
 
+<h2>Labels</h2>
+
+Before making decisions to purchase anything, there is always an essential step: reading the labels. Different brands might choose to name their paint differently, it is so easy to get confused, like what's Winsor Blue, Peacock Blue, or even Marine Blue, Berlin Blue? Luckily, they will (mostly) offer the following info on the label:
+
+- Pigment Info: A universal code to identify what's actually inside the paint. This isn't just for watercolor—the same codes apply to oil, gouache, acrylic, and more
+- Lightfastness: How long the color stays vibrant before fading. This is normally measured under "museum conditions"
+- Transparency: Whether the paint is transparent, semi-transparent, semi-opaque, or opaque. In watercolor, artists generally prefer transparent colors, but others definitely exist for a reason
+- Staining: High-staining colors tend to sink deep into the paper fibers immediately and want to stay there. Low or non-staining paints can be easily lifted from the paper using a wet brush
+- Granulation: Granulating paints have heavier pigment particles that settle into the tiny "valleys" of the watercolor paper, creating a beautiful, sandy texture
+- Series Number: how pricy the paint is
+- Safety Warnings: In North America, you'll usually see AP (Approved Product—non-toxic and safe for children) or CL (Cautionary Labeling—may be harmful if misused). California has its own Proposition 65 warning for materials that can cause cancer. (I've heard Europe uses the CE mark, though I haven't come across it on my own tubes yet)
+
+- 
+
+
+
 <h2>Brands</h2>
 
 Personally, I like to group watercolor paint brands into four categories.
