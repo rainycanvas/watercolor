@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Watercolor Paint - Read the Label like a Pro
+title: Watercolor Paint 101 - Labels Explained
 author: RainyCanvas
 tags:
 - paint
 - watercolor
+- beginner
 ---
 
 Watercolor paint is honestly so beautiful and mesmerizing, but the amount of choices out there can be super overwhelming. Personally, I love spending time wandering through art stores or browsing watercolor swatches and pigment info online for hours - it’s a hobby in itself. Before making the decision to purchase anything, there is always an essential step: reading the labels. If you are standing in a physical art store, you can just pick up the tubes/pans and read the fine print directly. If you're shopping online, most brand websites, pigment database sites or online stores provide the exact same information. It’s like doing a quick "background check" before you commit to a new color.
@@ -36,12 +37,21 @@ If you’ve ever wondered why your paint has such a specific (and sometimes weir
 
 Sometimes you’ll see the word "Hue" on a paint tube. This usually means that other pigments have been used to replace the "Genuine" original. Many student-grade paints do this to keep costs down. Some manufactures just omit the word though. If everyone strictly follow this rule, mordern Naples Yellow should technically be called "Naples Yellow Hue" because it is actually a replacement for the original toxic version.
 
-<h2>Pigment Name</h2>
+<h2>Pigment Code</h2>
 
-If paint names are just "nicknames," then the Pigment Info is the real, scientific name. These codes aren't just for watercolor; they are used globally across all media, including oils, acrylics, and gouache.
+Pigment code is a universal code to identify what's actually inside the paint. This isn't just for watercolor—the same codes apply to oil, gouache, acrylic, and more. Think of paint names as the "nicknames," and the Pigment Code is the real, scientific name.
+
+- Normally those Pigment Code will start with a P for 'Pigment'. But it could start with B (Base), D (Dye) or N (Natural).
+- The second letter represents color family: Y = Yellow, R = Red, O = Orange, V = Violet, G = Green, Br = Brown, Bk = Black, W = Wihtie.
+- The number is a unique ID for the color index. Sometimes the number will include a ':', like PB15:1 or PB15:3, it means a different variation of the same pigment.
+
+Even though manufacturers can name their paints whatever they want, checking the Pigment Code is usually the best way to see how a color matches across different brands. If you know you love PB29, you can find its equivalent in almost any professional line, whether they call it "French Ultramarine" or "Ultramarine Deep".
+
+However, keep in mind that a Pigment Code isn't a "universal 100% match" ID. Some pigments have a wide range of shades. Depending on how the pigment is sourced, ground, or processed, the exact same code can look slightly (or sometimes hugely) different.
 
 
 
+========================
 
 Depends on your location, your local art store might carry different brands. No matter which brand you want to start with, it is 
 
