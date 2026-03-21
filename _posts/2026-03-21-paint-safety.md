@@ -45,4 +45,41 @@ Some manufactors list those associated minerals and by-products in their SDS for
 
 <h2>Looking for Alternatives</h2>
 
+If you want to avoid heavy metals in your palette, the industry now offers several excellent alternatives - especially for Cadmium pigments. Many leading brands have moved away from traditional Cadmiums, offering "Cadmium-Free" versions that mimic the original’s opacity and vibrance without the toxicity.
+
+However, Cobalt pigments are a bit trickier. While PB29 (Ultramarine Blue) can replace PB28 (Cobalt Blue) to some extent, colors like PB35 (Cerulean Blue) or PG50 (Cobalt Teal/Green) don't have perfect substitutes. Even if a hue or synthetic mix looks similar in color, its other properties are often completely different.
+
+At the end of the day, you are the one who decides what goes on your palette. If a specific pigment is essential to your artistic vision and there is no "safe" version that performs the same way, then go for it. Throughout history, there has never been a confirmed case of a painter dying from pigment poisoning alone. Just remember to handle it with the respect and safety measures it requires.
+
+Here is a break down of the common alternatives I'm aware of
+
+| Color Name  | Pigment Code | Alternatives |
+| :--- | :--- | :--- |
+| **Cadmium Lemon** | PY35 | PY3, PY175, PY184, or other Cadmium-free version |
+| **Cadmium Yellow** | PY35 | PY97, PY154, or other Cadmium-free version |
+| **Cadmium Yellow Deep** | PY35 | PY65，PY110, or other Cadmium-free version |
+| **Cadmium Orange** | PO20 | PO73, or other Cadmium-free version |
+| **Cadmium Red** | PR108 | PR255，PR254, or other Cadmium-free version |
+| **Cobalt Blue** | PB28 | PB29 |
+| **Cobalt Teal** | PB28 or PG50 | No good alternatives |
+| **Cerulean Blue** | PB35 or PB36 | No good alternatives |
+| **Green Gold** | PY129 | No good alternatives, might be replaced by using multiple yellow paints |
+| **Nickel Azo Yellow** | PY150 | No good alternatives, might be replaced by using multiple yellow paints |
+| **Manganese Blue** | PB33 | Daniel Smith Manganese Blue Hue, a granulating version of phthalo blue |
+| **Manganese Violet** | PV16 | PV15 |
+| **Nickel Titanate Yellow** | PY53 | Naples Yellow mixture, or a custom mixture with PW pigments |
+| **Viridian** | PG18 | Even though PG7 have different characters, some manufactor labeled it as 'Viridian' |
+| **Chromium Oxide** | PG17 | custom mixture |
+| **Zinc White** | PW4 | Titanium White PW6, which could also be considered toxic |
+
+
+<h2>Think about the Environment</h2>
+
+While the amount of paint an individual artist uses is relatively small, I recommend everyone consider their environmental footprint. Certain elements (especially heavy metals) can accumulate in water and soil, moving up the food chain through plants and animals, and eventually being re-absorbed by humans.
+
+Dumping paint water down the drain might not be illegal, but it contributes to long-term environmental issues. Here are a few simple ways to be a more eco-conscious artist:
+
+- Before rinsing your brushes, use a paper towel to wipe off as much excess paint as possible. Dispose of these towels in your regular landfill trash (non-compostable and non-recyclable). Modern landfills are typically lined and managed to prevent these materials from leaching into the groundwater system.
+- If your rinse water is heavily saturated with pigment, don't pour it all out at once. Let the jar sit undisturbed for a few days. The heavy pigment particles will settle at the bottom. You can then pour off the clear water on top, wipe out the concentrated "sludge" at the bottom with a paper towel, and dispose of it in the trash.
+
 
