@@ -1,13 +1,26 @@
 ---
 layout: post
-title: Best Watercolor Paint to Start With
+title: Watercolor Paint - Read the Label like a Pro
 author: RainyCanvas
 tags:
 - paint
 - watercolor
 ---
 
-Watercolor paint is honestly so beautiful and mesmerizing, but the amount of choices out there can be super overwhelming. Here I want to break down some of the basics to help simplify things.
+Watercolor paint is honestly so beautiful and mesmerizing, but the amount of choices out there can be super overwhelming. Personally, I love spending time wandering through art stores or browsing watercolor swatches and pigment info online for hours - it’s a hobby in itself.
+
+Before making the decision to purchase anything, there is always an essential step: reading the labels. If you are standing in a physical art store, you can just pick up the tubes/pans and read the fine print directly. If you're shopping online, most brand websites, pigment database sites or online stores provide the exact same information. It’s like doing a quick "background check" before you commit to a new color.
+
+
+
+<h2>Color Name</h2>
+
+
+
+
+Depends on your location, your local art store might carry different brands. No matter which brand you want to start with, it is 
+
+Here I want to break down some of the basics to help simplify things.
 
 One of the first things to notice is the huge range in prices. Generally, watercolor paints are split into two main categories: Student Grade and Artist (or Professional) Grade. There are even cheaper options out there, like the super basic sets for kids, but honestly, I’ve never used them myself.
 
