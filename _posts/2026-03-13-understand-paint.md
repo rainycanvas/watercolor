@@ -7,13 +7,38 @@ tags:
 - watercolor
 ---
 
-Watercolor paint is honestly so beautiful and mesmerizing, but the amount of choices out there can be super overwhelming. Personally, I love spending time wandering through art stores or browsing watercolor swatches and pigment info online for hours - it’s a hobby in itself.
+Watercolor paint is honestly so beautiful and mesmerizing, but the amount of choices out there can be super overwhelming. Personally, I love spending time wandering through art stores or browsing watercolor swatches and pigment info online for hours - it’s a hobby in itself. Before making the decision to purchase anything, there is always an essential step: reading the labels. If you are standing in a physical art store, you can just pick up the tubes/pans and read the fine print directly. If you're shopping online, most brand websites, pigment database sites or online stores provide the exact same information. It’s like doing a quick "background check" before you commit to a new color.
 
-Before making the decision to purchase anything, there is always an essential step: reading the labels. If you are standing in a physical art store, you can just pick up the tubes/pans and read the fine print directly. If you're shopping online, most brand websites, pigment database sites or online stores provide the exact same information. It’s like doing a quick "background check" before you commit to a new color.
+An example of labelled tube
 
-
+<img src="/watercolor/assets/img/tube_info_1.png">
+<img src="/watercolor/assets/img/tube_info_2.png">
 
 <h2>Color Name</h2>
+
+Honestly, watercolor manufacturers can name their colors anything they want.
+
+Some names are straightforward - simply just named after their actual ingredients, like Cadmium Red or Quinacridone Red. But many brands seem to intentionally avoid those complex chemical names (for marketing purpose probably). As a result, we get some romantic but confusing names - Winsor Blue, Peacock Blue, Berlin Blue, etc.
+
+If you’ve ever wondered why your paint has such a specific (and sometimes weird) name, here is how most of them are born:
+
+- The Brand Names: Some brands like to mark their territory. For example, Winsor Blue is simply Winsor & Newton’s version of Phthalo Blue. It's their way of saying, "This is our signature shade."
+
+- The Origins: Burnt Sienna and Raw Umber are named after Siena and Umbria in Italy, where these earth pigments were literally dug out of the ground for centuries.
+
+- The Trade Hubs: Some colors are named after where they were traded, not where they were mined. Venetian Red is a classic example - Venice was the historical "gatekeeper" of the pigment trade, shipping exotic colors from the East to the rest of Europe.
+
+- The Legends (People): Some colors are named after famous artists or chemists. A classic example is Payne’s Grey, named after the 18th-century artist William Payne, who created this moody, dark blue-grey mix to replace solid black in his landscapes.
+
+- The History: Many names are purely historical, like Naples Yellow. In the past, these pigments were often discontinued because they were incredibly toxic. Today, manufacturers use safer modern pigments to recreate these classic shades, but they keep the historical name to honor the tradition.
+
+- The Descriptive: Then there are the purely evocative names, like Dragon’s Blood. 
+
+Sometimes you’ll see the word "Hue" on a paint tube. This usually means that other pigments have been used to replace the "Genuine" original. Many student-grade paints do this to keep costs down. Some manufactures just omit the word though. If everyone strictly follow this rule, mordern Naples Yellow should technically be called "Naples Yellow Hue" because it is actually a replacement for the original toxic version.
+
+<h2>Pigment Name</h2>
+
+If paint names are just "nicknames," then the Pigment Info is the real, scientific name. These codes aren't just for watercolor; they are used globally across all media, including oils, acrylics, and gouache.
 
 
 
