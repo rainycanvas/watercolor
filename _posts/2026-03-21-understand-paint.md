@@ -10,6 +10,10 @@ tags:
 
 Just like people have nicknames and real names, watercolor paints have a Color Name and a Pigment Code.
 
+Here is an example on how the color name and pigment code get labelled on a watercolor tube. I find many tubes/pans prioritize the color name and print the pigment code in a "hidden" place with smaller fonts.
+
+<img src="/watercolor/assets/img/color_name_and_codes_tube.jpg">
+
 <h2>Color Name</h2>
 
 Honestly, watercolor manufacturers can name their colors anything they want.
@@ -20,7 +24,7 @@ If you’ve ever wondered why your paint has such a specific (and sometimes weir
 
 - The Brand Names: Some brands like to mark their territory. For example, Winsor Blue is simply Winsor & Newton’s version of Phthalo Blue. It's their way of saying, "This is our signature shade."
 
-- The Origins: Burnt Sienna and Raw Umber are named after Siena and Umbria in Italy, where these earth pigments were literally dug out of the ground for centuries. Besides originas, some colors might be named after where they were traded, for exmaple, Venetion red. 
+- The Origins: Burnt Sienna and Raw Umber are named after Siena and Umbria in Italy, where these earth pigments were literally dug out of the ground for centuries. Besides origins, some colors might be named after where they were traded, for exmaple, Venetion red. 
 
 - The Legends (People): Some colors are named after famous artists or chemists. A classic example is Payne’s Grey, named after the 18th-century artist William Payne, who created this moody, dark blue-grey mix to replace solid black in his landscapes.
 
@@ -30,9 +34,13 @@ If you’ve ever wondered why your paint has such a specific (and sometimes weir
 
 Sometimes you’ll see the word "Hue" on a paint tube. This usually means that other pigments have been used to replace the "Genuine" original. Many student-grade paints do this to keep costs down. Some manufactures just omit the word though. If everyone strictly follow this rule, mordern Naples Yellow should technically be called "Naples Yellow Hue" because it is actually a replacement for the original toxic version.
 
+Personally I prefer the names that can best describe the 'personality' of the paint. Phthalo Blue is a good name because I know phthalo pigments are incredibly strong, can be dark in masstone and vibrant in tints, and notoriously staining. Similarly, Naples Yellow is a great name. Even though modern manufacturers use different formulas and pigment blends to create it, the name still promises a specific character: a pale, opaque, and creamy yellow.
+
 <h2>Pigment Code</h2>
 
 Pigment code is a universal code to identify what's actually inside the paint. This isn't just for watercolor - the same codes apply to oil, gouache, acrylic, and more. Think of paint names as the "nicknames," and the Pigment Code is the real, scientific name.
+
+<img src="/watercolor/assets/img/pigment_code_explained.png">
 
 - Normally those Pigment Code will start with a P for 'Pigment'. But it could start with B (Base), D (Dye) or N (Natural).
 - The second letter represents color family: Y = Yellow, R = Red, O = Orange, V = Violet, G = Green, Br = Brown, Bk = Black, W = Wihtie.
