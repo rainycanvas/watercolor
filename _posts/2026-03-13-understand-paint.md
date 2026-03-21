@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watercolor Paint 101 - Labels Explained
+title: Watercolor Paint 101 - Color Name and Pigment Code
 author: RainyCanvas
 tags:
 - paint
@@ -8,12 +8,7 @@ tags:
 - beginner
 ---
 
-Watercolor paint is honestly so beautiful and mesmerizing, but the amount of choices out there can be super overwhelming. Personally, I love spending time wandering through art stores or browsing watercolor swatches and pigment info online for hours - it’s a hobby in itself. Before making the decision to purchase anything, there is always an essential step: reading the labels. If you are standing in a physical art store, you can just pick up the tubes/pans and read the fine print directly. If you're shopping online, most brand websites, pigment database sites or online stores provide the exact same information. It’s like doing a quick "background check" before you commit to a new color.
-
-An example of labelled tube
-
-<img src="/watercolor/assets/img/tube_info_1.png">
-<img src="/watercolor/assets/img/tube_info_2.png">
+Just like people have nicknames and real names, watercolor paints have a Color Name and a Pigment Code.
 
 <h2>Color Name</h2>
 
@@ -25,13 +20,13 @@ If you’ve ever wondered why your paint has such a specific (and sometimes weir
 
 - The Brand Names: Some brands like to mark their territory. For example, Winsor Blue is simply Winsor & Newton’s version of Phthalo Blue. It's their way of saying, "This is our signature shade."
 
-- The Origins: Burnt Sienna and Raw Umber are named after Siena and Umbria in Italy, where these earth pigments were literally dug out of the ground for centuries.
+- The Origins: Burnt Sienna and Raw Umber are named after Siena and Umbria in Italy, where these earth pigments were literally dug out of the ground for centuries. 
 
 - The Trade Hubs: Some colors are named after where they were traded, not where they were mined. Venetian Red is a classic example - Venice was the historical "gatekeeper" of the pigment trade, shipping exotic colors from the East to the rest of Europe.
 
 - The Legends (People): Some colors are named after famous artists or chemists. A classic example is Payne’s Grey, named after the 18th-century artist William Payne, who created this moody, dark blue-grey mix to replace solid black in his landscapes.
 
-- The History: Many names are purely historical, like Naples Yellow. In the past, these pigments were often discontinued because they were incredibly toxic. Today, manufacturers use safer modern pigments to recreate these classic shades, but they keep the historical name to honor the tradition.
+- The History: Many names are purely historical, like Naples Yellow. In the past, these pigments were often discontinued for reasons (for example toxicity). Today, manufacturers use other pigments to recreate these classic shades, but they keep the historical name to honor the tradition.
 
 - The Descriptive: Then there are the purely evocative names, like Dragon’s Blood. 
 
@@ -39,7 +34,7 @@ Sometimes you’ll see the word "Hue" on a paint tube. This usually means that o
 
 <h2>Pigment Code</h2>
 
-Pigment code is a universal code to identify what's actually inside the paint. This isn't just for watercolor—the same codes apply to oil, gouache, acrylic, and more. Think of paint names as the "nicknames," and the Pigment Code is the real, scientific name.
+Pigment code is a universal code to identify what's actually inside the paint. This isn't just for watercolor - the same codes apply to oil, gouache, acrylic, and more. Think of paint names as the "nicknames," and the Pigment Code is the real, scientific name.
 
 - Normally those Pigment Code will start with a P for 'Pigment'. But it could start with B (Base), D (Dye) or N (Natural).
 - The second letter represents color family: Y = Yellow, R = Red, O = Orange, V = Violet, G = Green, Br = Brown, Bk = Black, W = Wihtie.
@@ -47,84 +42,6 @@ Pigment code is a universal code to identify what's actually inside the paint. T
 
 Even though manufacturers can name their paints whatever they want, checking the Pigment Code is usually the best way to see how a color matches across different brands. If you know you love PB29, you can find its equivalent in almost any professional line, whether they call it "French Ultramarine" or "Ultramarine Deep".
 
-However, keep in mind that a Pigment Code isn't a "universal 100% match" ID. Some pigments have a wide range of shades. Depending on how the pigment is sourced, ground, or processed, the exact same code can look slightly (or sometimes hugely) different.
+However, keep in mind that a Pigment Code isn't a "universal 100% match" ID. Some pigments have a wide range of shades. Depending on how the pigment is sourced, ground, or processed, the exact same code can look slightly (or sometimes hugely) different. For example, PB29 normally have two versions - a lighter, slightly blue leaning, non-granulate version and a depper, slightly purple leaning, granulate version. PB28 on the other hands, can either be a blue or turquiose paint.
 
-<h2>Safety Info</h2>
-
-In general, painting in watercolor is safe. Over the years, the most dangerous pigments have been phased out of production. Historical colors like Lead White (which caused lead poisoning) and the infamous Scheele's Green (an arsenic-based pigment rumored to have killed Napoleon) have completely disappeared from modern watercolor palettes.
-
-Today, we have much clearer safety standards to guide us. In North America, you'll mostly see the AP (Approved Product) and CL (Cautionary Labeling) seals.
-
-- The AP Seal: This means the product is certified non-toxic under normal, intended use.
-- The CL Seal: This is for materials that require more care (like those containing Cobalt or Cadmium).
-
-Interestingly, you’ll sometimes see the exact same pigment labeled CL by one brand and AP by another, depending on their specific formula and concentration.
-
-You might also spot the CE mark (European safety standard) or the famous California Prop 65 warning. Prop 65 is notoriously strict and flags even trace amounts of chemicals that could potentially be harmful.
-
-If you want to dig deeper, most professional brands provide an SDS (Safety Data Sheet), formerly known as MSDS (Material Safety Data Sheet), for every single color they produce. You can usually find these as downloadable PDFs on the manufacturer’s website or on the big online art store's website. 
-
-When we talk about safety, we usually only think about the pigment itself. But every manufacturer has a different formula that includes other chemicals, like preservatives (Some brands have a much stronger industrial smell than others). Also even the pigments themselves aren't always 100% pure. 
-
-- Natural Pigments may contain associated minerals. For example, PBr7 is generally safe, but it can sometimes carry trace amounts of lead.
-- Synthetic Pigments may contain by-products from the manufacturing process. For instance, PG17 and PG18 can sometimes have leftover chromium compounds.
-
-Even for pigments currently labeled as "safe", their long-term health impacts are not always fully understood. Scientific standards evolve, and what we consider safe today might be viewed differently in the future.
-
-The truth is, we are exposed to trace amounts of harmful elements in our daily lives all the time. There is no need to panic or be overly anxious about your paints, but it is still necessary to take simple, common-sense measures to ensure your safety. 
-
-Don't lick the brush to shape the tip. Keep the 
-
-
-
-========================
-
-Depends on your location, your local art store might carry different brands. No matter which brand you want to start with, it is 
-
-Here I want to break down some of the basics to help simplify things.
-
-One of the first things to notice is the huge range in prices. Generally, watercolor paints are split into two main categories: Student Grade and Artist (or Professional) Grade. There are even cheaper options out there, like the super basic sets for kids, but honestly, I’ve never used them myself.
-
-Before we dive into anything deeper, the general rule is to get the best paint you can afford. But there’s a little caveat here. Even though you don’t need a huge amount of paint for a watercolor piece, and dried paint on your palette can always be re-activated with a drop of water, there will be some "waste" involved. It is common to wash paint off the brushes, clean up dried bits, or use up quite a bit of pigment just practicing how to mix colors. If using expensive paint makes you feel like you have to be "precious" or "careful" with every drop, it might actually hold you back. In that case, going for something more affordable is probably a better move.
-
-<h2>Labels</h2>
-
-Before making decisions to purchase anything, there is always an essential step: reading the labels. Different brands might choose to name their paint differently, it is so easy to get confused, like what's Winsor Blue, Peacock Blue, or even Marine Blue, Berlin Blue? Luckily, they will (mostly) offer the following info on the label:
-
-
-- Lightfastness: How long the color stays vibrant before fading. This is normally measured under "museum conditions"
-- Transparency: Whether the paint is transparent, semi-transparent, semi-opaque, or opaque. In watercolor, artists generally prefer transparent colors, but others definitely exist for a reason
-- Staining: High-staining colors tend to sink deep into the paper fibers immediately and want to stay there. Low or non-staining paints can be easily lifted from the paper using a wet brush
-- Granulation: Granulating paints have heavier pigment particles that settle into the tiny "valleys" of the watercolor paper, creating a beautiful, sandy texture
-- Series Number: how pricy the paint is
-- Safety Warnings: In North America, you'll usually see AP (Approved Product—non-toxic and safe for children) or CL (Cautionary Labeling—may be harmful if misused). California has its own Proposition 65 warning for materials that can cause cancer. (I've heard Europe uses the CE mark, though I haven't come across it on my own tubes yet)
-
-- 
-
-
-
-<h2>Brands</h2>
-
-Personally, I like to group watercolor paint brands into four categories.
-
-First, we have the "High-End" Artist Grade legends like Daniel Smith, Winsor & Newton Professional, Schmincke, M. Graham, and so many more. These are the best among all brands. They offer incredible vibrancy, consistent quality control, and each has its own unique personality. They are trusted by professional artists. Different people might have different opinions on what brand is the no.1 in their mind, but generally it is hard to go wrong with them if you have the budget. Depends on where you are, some of the brand might be more expensive than others. 
-
-Then, there’s the Student Grade. Interestingly, it seems like the "Student Grade" concept is mostly a European thing. Many big European brands have a student grade line: Winsor & Newton has Cotman, Rembrandt has Van Gogh, Schmincke has Schmincke Akademie, Sennelier has Sennelier La Petite Aquarelle. Feels like the US-based companies don't really bother with the student grade lines, Daniel Smith, Qor, M. Graham don't do it. Student Grade paints are more affordable than the professional line. 
-
-Starting with student grade is probably not a bad idea, since you can always 'upgrade' to their professional line. Behind the budget friendly price tag, we are sacrificing the pigment load. To keep the costs down, manufacturers use less actual pigment and more fillers. It is common to find out the colors are less vibrant. Personally I only tried Van Gogh and Cotman, in my personal experience, some colors are comparable to the professional paint but some are disappointing. Maybe consider doing more researches and mixing different brands for a better palette.
-
-Actually, there’s a third category that I find fascinating: the Affordable Artist Grade. This is where things get really interesting because these paints often compete in the similar price range as student sets. Generally speaking, these professional-level paints have a better pigment load and use more expensive raw materials.
-
-I’ve noticed that these brands tend to use Cadmium pigments quite a bit—it seems to be their way of feeling more "professional." Personally, I refuse to use Cadmium because of its toxicity, especially when there are so many great modern alternatives available today. Because of this, my options for reds and yellows in these affordable professional lines are often a bit limited.
-
-In my area, I can get ShinHan PWC and Rosa Gallery at very low prices, and you can often find Mijello Mission Gold sets on Amazon. I’d also put Paul Rubens into this category.
-
-
-While they are much cheaper, there’s a trade-off: they usually have less pigment and more fillers. This means they might be less transparent, more prone to fading, and honestly, some colors in these sets can be a bit disappointing. You have to be a bit more selective here.
-
-
-
-testing some images
-
-<img src="/watercolor/assets/img/tbd.png">
 
