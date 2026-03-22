@@ -38,18 +38,29 @@ Some artists claim that since every hue is derived from the same few colors, the
 | **Yellow** | PY97 or PY3 |
 | **Magenta** | PV19 or PR122 |
 | **Cyan** | PB15:3 or PB29 |
-| **Green** | PG7 |
+| **Green** | PG7 or PG36 |
 
-Ideally the three primary colors should be placed evenly across the color wheel. In reality, nothing is ideal though. 
+<img src="/watercolor/assets/img/artist_palatte.jpg">
+
+If you decide to add just one more color, selecting four colors distributed roughly evenly around the color wheel will expand your available gamut. By moving to a four-color system, you also gain a massive practical advantage: Green and Magenta (depending on the specific pigments you choose) act as complements or near-complements. Having these opposing pairs on your palette makes it incredibly efficient to neutralize hues and mix rich, deep darks in a fraction of the time.
+
+<h2>Split Primary Palette</h2>
+
+|  Name  | Pigment Code |
+| :--- | :--- |
+| **Green-leaning Yellow / Cool Yellow** | PY3 or PY97 |
+| **Orange-leaning Yellow / Warm Yellow** | PY65 or PY110 |
+| **Orange-leaning Red / Warm Red** | PR254 or PR255 |
+| **Purple-leaning Red / Cool Red** | PV19 or PR122 |
+| **Purple-leaning Blue / Warm Blue** | PB29 |
+| **Green-leaning Blue / Cool Blue** | PB15:3 or PB16 |
+
+One of the most popular frameworks in watercolor education is the Split Primary system (which gained significant traction through the work of Michael Wilcox and his "Blue and Yellow Don't Make Green" theory). The idea is simple: take the three primaries and split each into a "warm" and a "cool" version.
+
+Personally, I find the terms "warm" and "cool" a bit confusing and arbitrary when applied to pigments. I prefer to describe them by their visual bias: green-leaning, orange-leaning, or purple-leaning.This system is the backbone of most begineer sets. I found many of those start with six split primary colors.
 
 
 
 
 
 
-
-PB15:3 at masstone is more blue-violet leaning.
-
-
-
-The further apart they are placed, the more "saturation cost" we will experience while mixing. Saturation Cost is defined as 
