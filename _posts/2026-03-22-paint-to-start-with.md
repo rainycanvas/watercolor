@@ -59,13 +59,27 @@ One of the most popular frameworks in watercolor education is the Split Primary 
 
 It’s a great way for beginners to learn the mechanics of mixing - knowing which two tubes to pick to get a glowing secondary, and which two will result in a muted, neutralized tone. This system is the backbone of most begineer sets. I found many of those start with six split primary colors.
 
-At the beginning, I'm not a fan of split primary. I have many issues with this system.
+To be honest, I'm not a fan of split primary. I have many issues with this system.
 
 - Personally, I find the terms "warm" and "cool" a bit confusing when applied to pigments. I prefer to describe them by their visual bias: green-leaning, orange-leaning, or purple-leaning.
 - Some watercolor sets are built on top of split primary theory, but the two versions of the same primary are too close to each other, which sort of defeats the purpose of splitting.
 - Seems too dogmatic about the triad concept. For example, an orange-leaning red can be very close in hue to an orange. Yet, in this system, we treat orange as a secondary citizen.
 
+Surprisingly I find myself often goes back to Split Primary when building limited palette for a simple reason - paint availability and the price. 
 
+<h2>Secondary Palette</h2>
+
+• primary light yellow : benzimidazolone yellow (PY154) or hansa yellow medium (PY97)
+• secondary red orange : pyrrole orange (PO73) or cadmium scarlet (PR108)
+• primary magenta : quinacridone magenta (PR122) or quinacridone rose ("permanent rose", PV19)
+• secondary blue violet : ultramarine blue (PB29) or cobalt blue deep (PB73)
+• primary cyan : phthalocyanine blue GS (PB15) or phthalocyanine cyan (PB17)
+• secondary blue green : phthalocyanine green BS (PG7) or phthalocyanine green YS (PG36); the best color match to magenta falls between these two greens.
+
+Single pigmented green/orange/purples selections are limited. PG7 is still a solid option. Other than that, PV23 could be an option, however, 
+
+
+There are waaaaay more red/yellow/blue paints than green/orange/purple paints. PY3, PY65, PB15:3 and PB29 are cheap and reliable. Other than those, PG7 is still a solid option, but PV23 is generally more expensive than the blue options and quality could vary across brands. 
 
 
 
