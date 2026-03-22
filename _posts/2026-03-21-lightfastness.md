@@ -18,7 +18,7 @@ When you check a paint tube for its lightfastness rating, you will likely encoun
 
 ASTM standard uses a Xenon Arc lamp to simulate intense sunlight in a lab. Blue Wool Scale is a comparative test where the paint is tested alongside eight strips of blue-dyed wool.
 
-| Blut Wool  | ASTM | Lightfastness |
+| Blue Wool  | ASTM | Lightfastness |
 | :--- | :--- | :--- |
 | 7 - 8 | I | over 100 years |
 | 6 | II | 50 - 100 years |
@@ -32,7 +32,7 @@ If you plan to sell your work or display it in a gallery, I highly recommend sti
 
 Many professional brands use the standard ASTM or Blue Wool ratings. However, some manufacturers use their own internal systems, like a simple 1 to 3-star scale, without clearly explaining how they map to international standards.
 
-<img src="/watercolor/assets/img/lightfastness.jpg">
+<img src="/watercolor/assets/img/lightfastness.jpg" height="400">
 
 If lightfastness is critical to your work, the best way to be certain is to do your own test. Simply create your own swatch, cut the swatch in half or cover one half with a think, light-proof material, then place the exposed half under direct sunlight. After a few months, compare the exposed side and the protected side.
 
