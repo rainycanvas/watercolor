@@ -34,7 +34,7 @@ Many professional brands use the standard ASTM or Blue Wool ratings. However, so
 
 <img src="/watercolor/assets/img/lightfastness.jpg">
 
-If lightfastness is critical to your work, the best way to be certain is to do your own test. Simple create your own swatch, cut the swatch in half or cover onoe half with a think, light-proof material, then place the exposed half under direct sunlight. After a few months, compare the exposed side and the protected side.
+If lightfastness is critical to your work, the best way to be certain is to do your own test. Simply create your own swatch, cut the swatch in half or cover one half with a think, light-proof material, then place the exposed half under direct sunlight. After a few months, compare the exposed side and the protected side.
 
 It is also highly beneficial to test lightfastness in both masstone (concentrated color) and tints (diluted with water). In the commercial world, lightfastness ratings are almost always based on the masstone. However, some pigments that appear "Excellent" when applied thickly can fade significantly faster when diluted into a pale wash.
 
