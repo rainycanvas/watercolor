@@ -32,9 +32,13 @@ If you plan to sell your work or display it in a gallery, I highly recommend sti
 
 Many professional brands use the standard ASTM or Blue Wool ratings. However, some manufacturers use their own internal systems, like a simple 1 to 3-star scale, without clearly explaining how they map to international standards.
 
+<img src="/watercolor/assets/img/lightfastness.jpg">
+
 If lightfastness is critical to your work, the best way to be certain is to do your own test. Simple create your own swatch, cut the swatch in half or cover onoe half with a think, light-proof material, then place the exposed half under direct sunlight. After a few months, compare the exposed side and the protected side.
 
 It is also highly beneficial to test lightfastness in both masstone (concentrated color) and tints (diluted with water). In the commercial world, lightfastness ratings are almost always based on the masstone. However, some pigments that appear "Excellent" when applied thickly can fade significantly faster when diluted into a pale wash.
+
+If you discover that your own fade test results contradict the official rating on the paint tube, don't worry - it is not uncommon LOL. Some brands are simply not so rigorous with their labeling. Furthermore, even if different brands use the exact same pigment code (e.g., PV23), their quality can vary significantly depending on the pigment supplier. The resulting lightfastness can also vary between brands.
 
 <h2>What Happens When Paint Fades</h2>
 
