@@ -57,9 +57,23 @@ If you decide to add just one more color, selecting four colors distributed roug
 
 One of the most popular frameworks in watercolor education is the Split Primary system (which gained significant traction through the work of Michael Wilcox and his "Blue and Yellow Don't Make Green" theory). The idea is simple: take the three primaries and split each into a "warm" and a "cool" version.
 
-Personally, I find the terms "warm" and "cool" a bit confusing and arbitrary when applied to pigments. I prefer to describe them by their visual bias: green-leaning, orange-leaning, or purple-leaning.This system is the backbone of most begineer sets. I found many of those start with six split primary colors.
+It’s a great way for beginners to learn the mechanics of mixing - knowing which two tubes to pick to get a glowing secondary, and which two will result in a muted, neutralized tone. This system is the backbone of most begineer sets. I found many of those start with six split primary colors.
+
+At the beginning, I'm not a fan of split primary. I have many issues with this system.
+
+- Personally, I find the terms "warm" and "cool" a bit confusing when applied to pigments. I prefer to describe them by their visual bias: green-leaning, orange-leaning, or purple-leaning.
+- Some watercolor sets are built on top of split primary theory, but the two versions of the same primary are too close to each other, which sort of defeats the purpose of splitting.
+- Seems too dogmatic about the triad concept. For example, an orange-leaning red can be very close in hue to an orange. Yet, in this system, we treat orange as a secondary citizen.
 
 
+
+
+
+
+
+However, the split primary system isn't without its critics. Many argue that it remains too confined by traditional primary theory.
+
+One of the confusion i had before was about 
 
 
 
