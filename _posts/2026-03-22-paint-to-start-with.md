@@ -23,7 +23,10 @@ The minimum starting point are the primaries.
 
 Here is the visualization of the three primary colors on the color wheel. (taken from artistpigment.org)
 
-<img src="/watercolor/assets/img/primary_triads.jpg">
+<figure style="text-align: center;">
+  <img src="/watercolor/assets/img/primary_triads.jpg" alt="color wheel of primary triads">
+  <figcaption>Primary Colors on Color Wheel</figcaption>
+</figure>
 
 Everything seems perfect so far, but only in theory. In the physical world, there is no such thing as a perfect primary pigment. Every mix comes with a "Saturation Cost". The further apart two colors are on the color wheel, the more "vibrancy" they lose when forced together. If you mix a Magenta with a Yellow to get an orange color, it will not look as glowing or punchy as a single-pigment orange like Pyrrole Orange (PO73).
 
@@ -39,6 +42,8 @@ Some artists claim that since every hue is derived from the same few colors, the
 | **Magenta** | PV19 or PR122 |
 | **Cyan** | PB15:3 or PB29 |
 | **Green** | PG7 or PG36 |
+
+Here is the visualization of the Artist's Primary Palette colors on the color wheel. (taken from artistpigment.org)
 
 <img src="/watercolor/assets/img/artist_palatte.jpg">
 
@@ -61,22 +66,25 @@ It’s a great way for beginners to learn the mechanics of mixing - knowing whic
 
 To be honest, I'm not a fan of split primary. I have many issues with this system.
 
-- Personally, I find the terms "warm" and "cool" a bit confusing when applied to pigments. I prefer to describe them by their visual bias: green-leaning, orange-leaning, or purple-leaning.
+- Personally, I find the terms "warm" and "cool" a bit confusing. I prefer to describe them by their visual bias: green-leaning, orange-leaning, or purple-leaning.
 - Some watercolor sets are built on top of split primary theory, but the two versions of the same primary are too close to each other, which sort of defeats the purpose of splitting.
 - Seems too dogmatic about the triad concept. For example, an orange-leaning red can be very close in hue to an orange. Yet, in this system, we treat orange as a secondary citizen.
 
-Surprisingly I find myself often goes back to Split Primary when building limited palette for a simple reason - paint availability and the price. 
+Surprisingly I find myself often goes back to Split Primary when building limited palette for a simple reason - paint availability and the price. Single pigmented green/orange/purples selections are limited. PO73 is vibrant but seems losing the vibrancy while mixing. Personally I avoid Cadmium Orange, so that option is gone too. PV32 is a good solid purple, but it is more expensive than PB15 or PB29, also the quality of the pigment varies a lot. PG7 is still a solid choice.
 
 <h2>Secondary Palette</h2>
 
-• primary light yellow : benzimidazolone yellow (PY154) or hansa yellow medium (PY97)
-• secondary red orange : pyrrole orange (PO73) or cadmium scarlet (PR108)
-• primary magenta : quinacridone magenta (PR122) or quinacridone rose ("permanent rose", PV19)
-• secondary blue violet : ultramarine blue (PB29) or cobalt blue deep (PB73)
-• primary cyan : phthalocyanine blue GS (PB15) or phthalocyanine cyan (PB17)
-• secondary blue green : phthalocyanine green BS (PG7) or phthalocyanine green YS (PG36); the best color match to magenta falls between these two greens.
+|  Name  | Pigment Code |
+| :--- | :--- |
+| **Yellow** | PY3 or PY97 |
+| **Orange** | PO71 or PO73 |
+| **Magenta** | PV19 or PR122 |
+| **Blue-Violet** | PB29 or PV23 |
+| **Cyan** | PB15:3  or PB16 |
+| **Green-Blue** | PG7 or PG36 |
 
-Single pigmented green/orange/purples selections are limited. PG7 is still a solid option. Other than that, PV23 could be an option, however, 
+
+ PG7 is still a solid option. Other than that, PV23 could be an option, however, 
 
 
 There are waaaaay more red/yellow/blue paints than green/orange/purple paints. PY3, PY65, PB15:3 and PB29 are cheap and reliable. Other than those, PG7 is still a solid option, but PV23 is generally more expensive than the blue options and quality could vary across brands. 
