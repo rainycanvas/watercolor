@@ -32,7 +32,10 @@ If you plan to sell your work or display it in a gallery, I highly recommend sti
 
 Many professional brands use the standard ASTM or Blue Wool ratings. However, some manufacturers use their own internal systems, like a simple 1 to 3-star scale, without clearly explaining how they map to international standards.
 
-<img src="/watercolor/assets/img/lightfastness.jpg" height="400">
+<figure style="text-align: center;">
+  <img src="/watercolor/assets/img/lightfastness.jpg" height="400" alt="Lightfastness on a Watercolor Tube">
+  <figcaption>Lightfastness labelled on a Watercolor Tube</figcaption>
+</figure>
 
 If lightfastness is critical to your work, the best way to be certain is to do your own test. Simply create your own swatch, cut the swatch in half or cover one half with a think, light-proof material, then place the exposed half under direct sunlight. After a few months, compare the exposed side and the protected side.
 
