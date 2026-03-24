@@ -63,6 +63,16 @@ If you decide to add just one more color, selecting four colors distributed roug
 | **Purple-leaning Blue / Warm Blue** | PB29 |
 | **Green-leaning Blue / Cool Blue** | PB15:3 or PB16 |
 
+<figure style="text-align: center; margin: 2em auto;">
+  <img src="/watercolor/assets/img/split_primary_color_wheel.png" alt="Split Primary Palette on Color Wheel" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
+  <figcaption style="font-style: italic; margin-top: 0.8em; color: #666;">Split Primary Palette on Color Wheel</figcaption>
+</figure>
+
+<figure style="text-align: center; margin: 2em auto;">
+  <img src="/watercolor/assets/img/split_primary_swatch.png" alt="Swatch of Split Primary Palette (from Daniel Smith's Essentials Watercolor Set)" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
+  <figcaption style="font-style: italic; margin-top: 0.8em; color: #666;">Swatch of Split Primary Palette (from Daniel Smith's Essentials Watercolor Set)</figcaption>
+</figure>
+
 One of the most popular frameworks in watercolor education is the Split Primary system (which gained significant traction through the work of Michael Wilcox and his "Blue and Yellow Don't Make Green" theory). The idea is simple: take the three primaries and split each into a "warm" and a "cool" version.
 
 It’s a great way for beginners to learn the mechanics of mixing - knowing which two tubes to pick to get a glowing secondary, and which two will result in a muted, neutralized tone. This system is the backbone of most begineer sets. I found many of those start with six split primary colors.
@@ -86,20 +96,30 @@ Surprisingly I find myself often goes back to Split Primary when building limite
 | **Cyan** | PB15:3  or PB16 |
 | **Green-Blue** | PG7 or PG36 |
 
+<figure style="text-align: center; margin: 2em auto;">
+  <img src="/watercolor/assets/img/secondary_palette.jpg" alt="Options for Secondary Palette on Color Wheel" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
+  <figcaption style="font-style: italic; margin-top: 0.8em; color: #666;">Options for Secondary Palette on Color Wheel</figcaption>
+</figure>
 
- PG7 is still a solid option. Other than that, PV23 could be an option, however, 
+In a secondary palette, we are finally free from the restrictive "primary-only" dogma. Instead of obsessing over Red, Yellow, and Blue, we can select pigments based on maximizing the available gamut or strategically adjusting the colors for a more intuitive mixing experience.Personally, I’m not a fan of using Green and Magenta to neutralize hues. I will pair a Red-Orange with a deep Blue to make them complementary or near-complementary.
 
+<h2>The Debate on Maximizing Gamut</h2>
 
-There are waaaaay more red/yellow/blue paints than green/orange/purple paints. PY3, PY65, PB15:3 and PB29 are cheap and reliable. Other than those, PG7 is still a solid option, but PV23 is generally more expensive than the blue options and quality could vary across brands. 
+Sometimes I catch myself wondering: Do I actually need the widest possible gamut? There’s an obvious technical appeal to a "maximized" palette - it’s essentially future-proofing. You never have to worry about a color being "unmixable" because your primaries cover （nearly） the entire spectrum. But I’ve come to realize that this often comes at the expense of convenience. In reality, about 90% time I'm painting with desaturated, muted tones. When it comes to those rare, punchy colors, everyone has their own aesthetic bias. For me, I find myself reaching for highly saturated Cool Yellows, Red-Oranges, and Teals, but I rarely, if ever, feel the need for a screamingly pure Magenta or Green.
 
+If you just started with the journey, maybe you’re unsure of your own color bias. Try this exercise: take a few paintings you truly love and deconstruct their color usage. You'll likely find that your personal "working gamut" is much more specific and personal than a textbook triad.
 
+<h2>What’s Next</h2>
 
+Regardless of which theory you subscribe to, a 3-to-6 color triad is just the foundation - the skeleton of your complete palette. In my experience, the sweet spot for a comfortable, versatile, and non-overwhelming palette lies between 8 and 12 colors. You don’t need to rush out and buy them all at once; it’s often better to evolve your selection as you paint.
 
+As you might look to expand, here is how I’d prioritize the next additions:
 
-However, the split primary system isn't without its critics. Many argue that it remains too confined by traditional primary theory.
+- the "unmixable" punchy colors: if a glowing Teal (PG50 or PB28) or a neon Pink (Opera Pink) works for your art style, then they deserve a spot.
 
-One of the confusion i had before was about 
+- a few more convenient colors: I always recommend at least one Earth tone (like Burnt Sienna or Burnt Umber) for instant warmth, and a dedicated Deep Dark (such as Payne's Grey, Indigo, Sepia, or Perylene Green) to anchor your values without the mud.
 
+- texture & personality: Finally, time to look beyond just hue. Consider adding colors with unique physical properties - granulating pigments or opaque/semi-opaque colors.
 
-
+The goal isn't to have every color imaginable, but to have a toolkit that feels like an extension of your own vision.
 
