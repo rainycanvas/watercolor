@@ -117,9 +117,8 @@ As you might look to expand, here is how I’d prioritize the next additions:
 
 - the "unmixable" punchy colors: if a glowing Teal (PG50 or PB28) or a neon Pink (Opera Pink) works for your art style, then they deserve a spot.
 
-- a few more convenient colors: I always recommend at least one Earth tone (like Burnt Sienna or Burnt Umber) for instant warmth, and a dedicated Deep Dark (such as Payne's Grey, Indigo, Sepia, or Perylene Green) to anchor your values without the mud.
+- a few more convenient colors: I always recommend at least one Earth tone (like Burnt Sienna or Burnt Umber) and a dedicated Deep Dark (such as Payne's Grey, Indigo, Sepia, or Perylene Green) to anchor your values. Also the definition of a "convenience color" depends on your subject. A portrait artist needs pigments specifically for human skin tones, while a landscaper might prioritize earth greens or granulating ochres.
 
-- texture & personality: Finally, time to look beyond just hue. Consider adding colors with unique physical properties - granulating pigments or opaque/semi-opaque colors.
+- texture & personality: in watercolor, there are something to look beyond just hue. Consider adding colors with unique physical properties - granulating pigments or opaque/semi-opaque colors.
 
-The goal isn't to have every color imaginable, but to have a toolkit that feels like an extension of your own vision.
 
