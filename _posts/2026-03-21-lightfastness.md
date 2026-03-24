@@ -33,7 +33,7 @@ If you plan to sell your work or display it in a gallery, I highly recommend sti
 Many professional brands use the standard ASTM or Blue Wool ratings. However, some manufacturers use their own internal systems, like a simple 1 to 3-star scale, without clearly explaining how they map to international standards.
 
 <figure style="text-align: center; margin: 2em auto;">
-  <img src="/watercolor/assets/img/lightfastness.jpg" height="400" alt="Lightfastness labelled on a Watercolor Tube" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
+  <img src="/watercolor/assets/img/lightfastness.jpg" alt="Lightfastness labelled on a Watercolor Tube" style="display: block; margin: 0 auto; max-width: 100%; height: 400px;">
   <figcaption style="font-style: italic; margin-top: 0.8em; color: #666;">Lightfastness labelled on a Watercolor Tube</figcaption>
 </figure>
 
