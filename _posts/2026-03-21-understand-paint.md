@@ -12,7 +12,11 @@ Just like people have nicknames and real names, watercolor paints have a Color N
 
 Here is an example on how the color name and pigment code get labelled on a watercolor tube. I find many tubes/pans prioritize the color name and print the pigment code in a "hidden" place with smaller fonts.
 
-<img src="/watercolor/assets/img/color_name_and_codes_tube.jpg">
+<figure style="text-align: center; margin: 2em auto;">
+  <img src="/watercolor/assets/img/color_name_and_codes_tube.jpg" alt="Color Name and Pigment Code labelled on a Watercolor Tube" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
+  <figcaption style="font-style: italic; margin-top: 0.8em; color: #666;">Color Name and Pigment Code labelled on a Watercolor Tube</figcaption>
+</figure>
+
 
 <h2>Color Name</h2>
 
@@ -40,7 +44,10 @@ Personally I prefer the names that can best describe the 'personality' of the pa
 
 Pigment code is a universal code to identify what's actually inside the paint. This isn't just for watercolor - the same codes apply to oil, gouache, acrylic, and more. Think of paint names as the "nicknames," and the Pigment Code is the real, scientific name.
 
-<img src="/watercolor/assets/img/pigment_code_explained.png">
+<figure style="text-align: center; margin: 2em auto;">
+  <img src="/watercolor/assets/img/pigment_code_explained.png" alt="Undertand Different Parts of Pigment Codes" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
+  <figcaption style="font-style: italic; margin-top: 0.8em; color: #666;">Undertand Different Parts of Pigment Codes</figcaption>
+</figure>
 
 - Normally those Pigment Code will start with a P for 'Pigment'. But it could start with B (Base), D (Dye) or N (Natural).
 - The second letter represents color family: Y = Yellow, R = Red, O = Orange, V = Violet, G = Green, Br = Brown, Bk = Black, W = Wihtie.
