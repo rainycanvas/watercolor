@@ -12,7 +12,10 @@ In general, painting in watercolor is relatively safe. Over the years, the most 
 
 Today, we have much clearer safety standards to guide us. In North America, you'll mostly see the AP (Approved Product) and CL (Cautionary Labeling) seals.
 
-<img src="/watercolor/assets/img/ap_seal.jpg" height="500">
+<figure style="text-align: center; margin: 2em auto;">
+  <img src="/watercolor/assets/img/ap_seal.jpg" alt="Safety Seal labelled on a Watercolor Tube" style="display: block; margin: 0 auto; max-width: 100%; height: 500px;">
+  <figcaption style="font-style: italic; margin-top: 0.8em; color: #666;">Safety Seal labelled on a Watercolor Tube</figcaption>
+</figure>
 
 - The AP Seal: This means the product is certified non-toxic under normal, intended use.
 - The CL Seal: This is for materials that require more care (like those containing Cobalt or Cadmium).
