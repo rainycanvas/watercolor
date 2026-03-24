@@ -23,9 +23,9 @@ The minimum starting point are the primaries.
 
 Here is the visualization of the three primary colors on the color wheel. (taken from artistpigment.org)
 
-<figure style="text-align: center;">
-  <img src="/watercolor/assets/img/primary_triads.jpg" alt="color wheel of primary triads">
-  <figcaption>Primary Colors on Color Wheel</figcaption>
+<figure style="text-align: center; margin: 2em auto;">
+  <img src="/watercolor/assets/img/primary_triads.jpg" alt="Primary Colors on Color Wheel" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
+  <figcaption style="font-style: italic; margin-top: 0.8em; color: #666;">Primary Colors on Color Wheel</figcaption>
 </figure>
 
 Everything seems perfect so far, but only in theory. In the physical world, there is no such thing as a perfect primary pigment. Every mix comes with a "Saturation Cost". The further apart two colors are on the color wheel, the more "vibrancy" they lose when forced together. If you mix a Magenta with a Yellow to get an orange color, it will not look as glowing or punchy as a single-pigment orange like Pyrrole Orange (PO73).
@@ -45,7 +45,10 @@ Some artists claim that since every hue is derived from the same few colors, the
 
 Here is the visualization of the Artist's Primary Palette colors on the color wheel. (taken from artistpigment.org)
 
-<img src="/watercolor/assets/img/artist_palatte.jpg">
+<figure style="text-align: center; margin: 2em auto;">
+  <img src="/watercolor/assets/img/artist_palatte.jpg" alt="Artist's Primary Palette on Color Wheel" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
+  <figcaption style="font-style: italic; margin-top: 0.8em; color: #666;">Artist's Primary Palette on Color Wheel</figcaption>
+</figure>
 
 If you decide to add just one more color, selecting four colors distributed roughly evenly around the color wheel will expand your available gamut. By moving to a four-color system, you also gain a massive practical advantage: Green and Magenta (depending on the specific pigments you choose) act as complements or near-complements. Having these opposing pairs on your palette makes it incredibly efficient to neutralize hues and mix rich, deep darks in a fraction of the time.
 
